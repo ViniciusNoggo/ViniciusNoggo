@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ViniciusNoggo
-- 👀 Data Analytics, Engineering and Science
+- 👀 Devops, Software Engineering, Data Engineering and Science
 - 🌐 My Linkedin: https://www.linkedin.com/in/viniciusnoggoszeki/
 
 <!---
